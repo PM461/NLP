@@ -1,0 +1,649 @@
+{
+  "Dialeurodes": {
+    "synsets": [
+      {
+        "name": "dialeurodes.n.01",
+        "definition": "a genus of Aleyrodidae"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Synonym",
+        "target": "genus Dialeurodes"
+      },
+      {
+        "relation": "IsA",
+        "target": "arthropod genus"
+      }
+    ]
+  },
+  "Varese": {
+    "synsets": [
+      {
+        "name": "varese.n.01",
+        "definition": "United States composer (born in France) whose music combines dissonance with complex rhythms and the use of electronic techniques (1883-1965)"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Synonym",
+        "target": "Edgar Varese"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "italy"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "lombardy"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "italy"
+      }
+    ]
+  },
+  "anno_Domini": {
+    "synsets": [
+      {
+        "name": "ad.r.01",
+        "definition": "in the Christian era; used before dates after the supposed year Christ was born"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Antonym",
+        "target": "before christ"
+      },
+      {
+        "relation": "Synonym",
+        "target": "anno Domini"
+      },
+      {
+        "relation": "Synonym",
+        "target": "anno Domini"
+      },
+      {
+        "relation": "Antonym",
+        "target": "before common era"
+      }
+    ]
+  },
+  "automatically": {
+    "synsets": [
+      {
+        "name": "automatically.r.01",
+        "definition": "in a reflex manner"
+      },
+      {
+        "name": "mechanically.r.01",
+        "definition": "in a mechanical manner; by a mechanism"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Synonym",
+        "target": "passively"
+      },
+      {
+        "relation": "Synonym",
+        "target": "mechanically"
+      }
+    ]
+  },
+  "card-house": {
+    "synsets": [
+      {
+        "name": "house_of_cards.n.02",
+        "definition": "an unstable construction with playing cards"
+      }
+    ],
+    "relations": []
+  },
+  "chink": {
+    "synsets": [
+      {
+        "name": "chink.n.01",
+        "definition": "(ethnic slur) offensive term for a person of Chinese descent"
+      },
+      {
+        "name": "chink.n.02",
+        "definition": "a narrow opening as e.g. between planks in a wall"
+      },
+      {
+        "name": "chink.n.03",
+        "definition": "a short light metallic sound"
+      },
+      {
+        "name": "tinkle.v.01",
+        "definition": "make or emit a high sound"
+      },
+      {
+        "name": "chink.v.02",
+        "definition": "fill the chinks of, as with caulking"
+      },
+      {
+        "name": "check.v.24",
+        "definition": "make cracks or chinks in"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "MannerOf",
+        "target": "plug"
+      },
+      {
+        "relation": "Synonym",
+        "target": "check"
+      }
+    ]
+  },
+  "cipher": {
+    "synsets": [
+      {
+        "name": "cipher.n.01",
+        "definition": "a message written in a secret code"
+      },
+      {
+        "name": "zero.n.02",
+        "definition": "a mathematical element that when added to another number yields the same number"
+      },
+      {
+        "name": "nothing.n.01",
+        "definition": "a quantity of no importance"
+      },
+      {
+        "name": "cipher.n.04",
+        "definition": "a person of no influence"
+      },
+      {
+        "name": "cipher.n.05",
+        "definition": "a secret method of writing"
+      },
+      {
+        "name": "code.v.02",
+        "definition": "convert ordinary language into code"
+      },
+      {
+        "name": "calculate.v.01",
+        "definition": "make a mathematical calculation or computation"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Synonym",
+        "target": "calculate"
+      },
+      {
+        "relation": "Synonym",
+        "target": "cypher"
+      }
+    ]
+  },
+  "disgraced": {
+    "synsets": [
+      {
+        "name": "dishonor.v.01",
+        "definition": "bring shame or dishonor upon"
+      },
+      {
+        "name": "take_down.v.02",
+        "definition": "reduce in worth or character, usually verbally"
+      },
+      {
+        "name": "discredit.v.02",
+        "definition": "damage the reputation of"
+      },
+      {
+        "name": "discredited.s.02",
+        "definition": "suffering shame"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Synonym",
+        "target": "discredited"
+      },
+      {
+        "relation": "DerivedFrom",
+        "target": "disgracedness"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "disgrace"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "undisgraced"
+      },
+      {
+        "relation": "FormOf",
+        "target": "disgrace"
+      }
+    ]
+  },
+  "epinephrine": {
+    "synsets": [
+      {
+        "name": "epinephrine.n.01",
+        "definition": "a catecholamine secreted by the adrenal medulla in response to stress (trade name Adrenalin); stimulates autonomic nerve action"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "IsA",
+        "target": "catecholamine"
+      },
+      {
+        "relation": "Synonym",
+        "target": "epinephrin"
+      },
+      {
+        "relation": "IsA",
+        "target": "vasoconstrictor"
+      },
+      {
+        "relation": "Synonym",
+        "target": "Adrenalin"
+      }
+    ]
+  },
+  "fraternization": {
+    "synsets": [
+      {
+        "name": "fraternization.n.01",
+        "definition": "associating with others in a brotherly or friendly way; especially with an enemy"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Synonym",
+        "target": "fraternisation"
+      },
+      {
+        "relation": "IsA",
+        "target": "association"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "non fraternization"
+      },
+      {
+        "relation": "HasContext",
+        "target": "pejorative"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "social"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "fraternal"
+      }
+    ]
+  },
+  "intemperate": {
+    "synsets": [
+      {
+        "name": "intemperate.a.01",
+        "definition": "(of weather or climate) not mild; subject to extremes"
+      },
+      {
+        "name": "intemperate.a.02",
+        "definition": "excessive in behavior"
+      },
+      {
+        "name": "intemperate.s.03",
+        "definition": "given to excessive indulgence of bodily appetites especially for intoxicating liquors"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "RelatedTo",
+        "target": "intense"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "immoderate"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "intense"
+      },
+      {
+        "relation": "Synonym",
+        "target": "heavy"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "inclement"
+      }
+    ]
+  },
+  "mummer": {
+    "synsets": [
+      {
+        "name": "mime.n.01",
+        "definition": "an actor who communicates entirely by gesture and facial expression"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Synonym",
+        "target": "mime"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "souler"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "parade"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "disguise"
+      },
+      {
+        "relation": "FormOf",
+        "target": "mummers"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "pantomime"
+      },
+      {
+        "relation": "FormOf",
+        "target": "mimmer"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "wrenboy"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "tipteerer"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "don"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "mumchance"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "costume"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "galoshin"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "actor"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "mummery"
+      },
+      {
+        "relation": "Synonym",
+        "target": "guiser"
+      },
+      {
+        "relation": "Synonym",
+        "target": "mime"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "mumchance"
+      }
+    ]
+  },
+  "munificent": {
+    "synsets": [
+      {
+        "name": "lavish.s.01",
+        "definition": "very generous"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Synonym",
+        "target": "overgenerous"
+      },
+      {
+        "relation": "DerivedFrom",
+        "target": "unmunificent"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "lavish"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "beneficent"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "liberal"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "munificence"
+      }
+    ]
+  },
+  "rattlepated": {
+    "synsets": [
+      {
+        "name": "rattlebrained.s.01",
+        "definition": "lacking sense or discretion; ; - Glenway Westcott"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Synonym",
+        "target": "scatterbrained"
+      }
+    ]
+  },
+  "sunroof": {
+    "synsets": [
+      {
+        "name": "sunroof.n.01",
+        "definition": "an automobile roof having a sliding or raisable panel"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "PartOf",
+        "target": "car"
+      },
+      {
+        "relation": "IsA",
+        "target": "roof"
+      },
+      {
+        "relation": "Synonym",
+        "target": "sunshine-roof"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "moonroof"
+      },
+      {
+        "relation": "DerivedFrom",
+        "target": "roof"
+      }
+    ]
+  },
+  "temporary": {
+    "synsets": [
+      {
+        "name": "temp.n.01",
+        "definition": "a worker (especially in an office) hired on a temporary basis"
+      },
+      {
+        "name": "impermanent.a.01",
+        "definition": "not permanent; not lasting; - James Thurber"
+      },
+      {
+        "name": "irregular.s.07",
+        "definition": "lacking continuity or regularity"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Synonym",
+        "target": "temp"
+      },
+      {
+        "relation": "Synonym",
+        "target": "impermanent"
+      },
+      {
+        "relation": "SimilarTo",
+        "target": "part-time"
+      }
+    ]
+  },
+  "tractive": {
+    "synsets": [
+      {
+        "name": "tractive.a.01",
+        "definition": "exerting traction and serving to pull"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "DerivedFrom",
+        "target": "tractiveness"
+      },
+      {
+        "relation": "DerivedFrom",
+        "target": "tractive effort"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "traction"
+      },
+      {
+        "relation": "DerivedFrom",
+        "target": "traction"
+      },
+      {
+        "relation": "DerivedFrom",
+        "target": "tractiveness"
+      },
+      {
+        "relation": "DerivedFrom",
+        "target": "tractive force"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "tractiveness"
+      }
+    ]
+  },
+  "ursinia": {
+    "synsets": [
+      {
+        "name": "ursinia.n.01",
+        "definition": "any of various plants of the genus Ursinia grown for their yellow- or orange- or white-rayed flowers"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "IsA",
+        "target": "flower"
+      }
+    ]
+  },
+  "weapons_emplacement": {
+    "synsets": [
+      {
+        "name": "gun_emplacement.n.01",
+        "definition": "an emplacement for a gun"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "Synonym",
+        "target": "gun emplacement"
+      }
+    ]
+  },
+  "zizz": {
+    "synsets": [
+      {
+        "name": "zizz.n.01",
+        "definition": "a buzzing or whizzing sound"
+      },
+      {
+        "name": "zizz.n.02",
+        "definition": "a nap"
+      }
+    ],
+    "relations": [
+      {
+        "relation": "IsA",
+        "target": "nap"
+      },
+      {
+        "relation": "HasContext",
+        "target": "United Kingdom"
+      },
+      {
+        "relation": "IsA",
+        "target": "sound"
+      },
+      {
+        "relation": "HasContext",
+        "target": "United Kingdom"
+      },
+      {
+        "relation": "FormOf",
+        "target": "zizzing"
+      },
+      {
+        "relation": "FormOf",
+        "target": "ziz"
+      },
+      {
+        "relation": "FormOf",
+        "target": "zizzes"
+      },
+      {
+        "relation": "DerivedFrom",
+        "target": "zizzy"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "sleep"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "zizzes"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "nap"
+      },
+      {
+        "relation": "RelatedTo",
+        "target": "zizzing"
+      },
+      {
+        "relation": "FormOf",
+        "target": "zizzed"
+      },
+      {
+        "relation": "EtymologicallyRelatedTo",
+        "target": "zzz"
+      }
+    ]
+  }
+}
